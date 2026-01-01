@@ -5,7 +5,7 @@ import starlight from "@astrojs/starlight";
 // plugins
 import starlightSidebarTopics from "starlight-sidebar-topics";
 import starlightScrollToTop from 'starlight-scroll-to-top';
-import starlightFullViewMode from "starlight-fullview-mode";
+// import starlightFullViewMode from "starlight-fullview-mode";
 // import starlightViewModes from 'starlight-view-modes';
 
 export default defineConfig({
@@ -69,11 +69,6 @@ export default defineConfig({
             showProgressRing: true,
             progressRingColor: '#00FFFF',
             showOnHomepage: false
-        }),
-        starlightFullViewMode({
-          leftSidebarEnabled: true,
-          rightSidebarEnabled: true,
-          rotateSidebarToggleWhenClosed: true,
         })
       ]
     })
