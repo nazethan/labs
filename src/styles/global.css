@@ -1,1 +1,13 @@
-@import "starlight-ui-tweaks/styles";
+/* Global styles */
+:root {
+  --font-family-base: system-ui, -apple-system, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
