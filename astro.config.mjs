@@ -5,6 +5,8 @@ import starlight from "@astrojs/starlight";
 // plugins
 import starlightSidebarTopics from "starlight-sidebar-topics";
 import starlightScrollToTop from 'starlight-scroll-to-top';
+import starlightFullViewMode from "starlight-fullview-mode";
+// import starlightViewModes from 'starlight-view-modes';
 
 export default defineConfig({
   site: 'https://nazethan.github.io',
@@ -55,7 +57,6 @@ export default defineConfig({
             ],
           }
         ]),
-        
         starlightScrollToTop({
             position: 'right',
             tooltipText: 'Back to top',
@@ -68,7 +69,12 @@ export default defineConfig({
             showProgressRing: true,
             progressRingColor: '#00FFFF',
             showOnHomepage: false
-      })
+        }),
+        starlightFullViewMode({
+          leftSidebarEnabled: true,
+          rightSidebarEnabled: true,
+          rotateSidebarToggleWhenClosed: true,
+        })
       ]
     })
   ],
