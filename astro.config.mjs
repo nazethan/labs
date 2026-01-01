@@ -12,6 +12,7 @@ export default defineConfig({
   site: 'https://nazethan.github.io',
   base: '/labs',
   outDir: './docs',
+  trailingSlash: 'always',
   integrations: [
     starlight({
       title: 'Labs',
