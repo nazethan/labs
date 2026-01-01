@@ -33,25 +33,25 @@ export default defineConfig({
           {
             label: 'OS',
             icon: 'linux',
-            link: '/os/',
+            link: 'os/',
             items: [
-              { label: 'Records', autogenerate: { directory: '/os/e/' } },
+              { label: 'Records', autogenerate: { directory: 'os/e/' } },
             ],
           },
           {
             label: 'DBMS',
             icon: 'seti:db',
-            link: '/dbms/',
+            link: 'dbms/',
             items: [
-              { label: 'Records', autogenerate: { directory: '/dbms/e/' } },
+              { label: 'Records', autogenerate: { directory: 'dbms/e/' } },
             ],
           },
           {
             label: 'CN',
             icon: 'seti:puppet',
-            link: '/cn/',
+            link: 'cn/',
             items: [
-              { label: 'Records', autogenerate: { directory: '/cn/e/' } },
+              { label: 'Records', autogenerate: { directory: 'cn/e/' } },
             ],
           }
         ]),
