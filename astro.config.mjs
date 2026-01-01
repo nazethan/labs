@@ -3,9 +3,6 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
 // plugins
-// import UnoCSS from "unocss/astro";
-// import Icons from "starlight-plugin-icons";
-import starlightSidebarSwipe from "starlight-sidebar-swipe";
 import starlightSidebarTopics from "starlight-sidebar-topics";
 import starlightScrollToTop from 'starlight-scroll-to-top';
 
