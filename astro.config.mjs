@@ -39,8 +39,6 @@ export default defineConfig({
             link: '/os/',
             items: [
               { label: 'Records', autogenerate: { directory: '/os/e/' } },
-              { label: 'Theory', autogenerate: { directory: '/os/t/' } },
-              { label: 'Extras', autogenerate: { directory: '/os/ex/' } },
             ],
           },
           {
@@ -49,8 +47,6 @@ export default defineConfig({
             link: '/dbms/',
             items: [
               { label: 'Records', autogenerate: { directory: '/dbms/e/' } },
-              { label: 'Theory', autogenerate: { directory: '/dbms/t/' } },
-              { label: 'Extras', autogenerate: { directory: '/dbms/ex/' } },
             ],
           },
           {
@@ -59,8 +55,6 @@ export default defineConfig({
             link: '/cn/',
             items: [
               { label: 'Records', autogenerate: { directory: '/cn/e/' } },
-              { label: 'Theory', autogenerate: { directory: '/cn/t/' } },
-              { label: 'Extras', autogenerate: { directory: '/cn/ex/' } },
             ],
           }
         ]),
