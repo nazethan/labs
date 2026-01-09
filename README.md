@@ -10,9 +10,9 @@ This repository is a collections of **Practical Records**, **Experiments**, **Re
 ### Directory Locator
 | Directory     | Description                                 | Link                                    |
 | :---          | :---                                        | :--:                                    |
-| `Records`     | Consists of all the **practical records**   | [Link](assets/recs/)                    |
-| `References`  | Consists of all the **reference materials** | [Link](assets/refs)                     |
-| `Assignments` | Consists of all the **assignments**         | [Coming Soon!](assets/a/README.md)      |
+| `Records`     | Consists of all the **practical records**   | [Link](assets/records/)                    |
+| `References`  | Consists of all the **reference materials** | [Link](assets/references)                     |
+| `Assignments` | Consists of all the **assignments**         | [Coming Soon!](assets/assignments/README.md)      |
 | `Guides`      | Consists of all the **guides**              | [Coming Soon!](assets/guides/README.md) |
 
 ---
