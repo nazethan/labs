@@ -1,8 +1,7 @@
 <div align="center">
   <h2><b>Database Management Lab • Records</b></h2>
   
-  > [!note]
-  > This directory consists of all the records of Database Management Systems Lab, categorized according to the **syllabus topics**. <br /> [![actual index](https://img.shields.io/badge/view_the_index-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](INDEX.md)
+  > ###### This directory consists of all the records of Database Management Systems Lab, categorized according to the **syllabus topics**. <br /> [![actual index](https://img.shields.io/badge/view_the_index-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](INDEX.md)
 
 </div>
 
