@@ -11,12 +11,12 @@
   > [!note]
   > These symbols used in the **Sl.No.** column indicate the status of each experiment record:
   > 
-  > | Sl.No. | Status                                |
-  > | :----: | :------------------------------------ |
-  > | `_`    | **NOT PUBLISHED :** Yet to be written |
-  > | `+`    | **PUBLISHED :** Under review          |
-  > | `$`    | **VERIFIED :** Reviewed and approved  |
-  > | `~`    | **ADDITIONAL :** Extra experiments    |
+  > | Sl.No. | Status                             |
+  > | :----: | :--------------------------------- |
+  > | `_` | **NOT PUBLISHED :** Yet to be written |
+  > | `+` | **PUBLISHED :** Under review |
+  > | `$` | **VERIFIED :** Reviewed and approved 
+  > | `~` | **ADDITIONAL :** Extra experiments |
 
 </details>
 
