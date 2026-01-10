@@ -8,15 +8,15 @@
 <details>
   <summary><b>Important</b></summary>
 
-  > [!note]
-  > These symbols used in the **Sl.No.** column indicate the status of each experiment record:
-  > 
-  > | Sl.No. | Status                             |
-  > | :----: | :--------------------------------- |
-  > | `_` | **NOT PUBLISHED :** Yet to be written |
-  > | `+` | **PUBLISHED :** Under review |
-  > | `$` | **VERIFIED :** Reviewed and approved 
-  > | `~` | **ADDITIONAL :** Extra experiments |
+### These symbols used in the **Sl.No.** column indicate the status of each experiment record
+| Sl.No. | Status                             |
+| :----: | :--------------------------------- |
+| `_` | **NOT PUBLISHED :** Yet to be written |
+| `+` | **PUBLISHED :** Under review |
+| `$` | **VERIFIED :** Reviewed and approved 
+| `~` | **ADDITIONAL :** Extra experiments |
+
+##### All the lines starting with `--` in the queries indicate comments and are not part of the actual query. 
 
 </details>
 
@@ -25,8 +25,8 @@
 ### **U1 • DBMS Lab: Installation & Basic Operations**
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :---:  | :------------------- | :-: | :-: | :--: |
-| `$` | To install and explore MySQL database management system | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
-| `+` | To create a basic database & perform simple operations | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
+| `$` | To install and explore MySQL database management system | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](_/01.md) |
+| `+` | To create a basic database & perform simple operations | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](_/02.md) |
 
 <br />
 
@@ -35,8 +35,8 @@
 ### **U2 • Database Design & ER Diagram**
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :---:  | :------------------- | :-: | :-: | :--: |
-| `_` | To design an ER diagram for a student management system | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
-| `_` | To convert the ER diagram into a relational schema | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
+| `_` | To design an ER diagram for a student management system | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) |
+| `_` | To convert the ER diagram into a relational schema | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) |
 
 <br />
 
@@ -45,10 +45,10 @@
 ### **U3 • SQL Queries**
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :---:  | :------------------- | :-: | :-: | :--: |
-| `+` | To write SQL queries for table creation and modification | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
-| `_` | To write SQL queries for data manipulation and retrieval | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
-| `_` | To write SQL queries for querying data with filters and sorting | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
-| `_` | To write SQL queries for joining multiple tables | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
+| `+` | To write SQL queries for table creation and modification | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](_/03.md) |
+| `_` | To write SQL queries for data manipulation and retrieval | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) |
+| `_` | To write SQL queries for querying data with filters and sorting | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) |
+| `_` | To write SQL queries for joining multiple tables | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) |
 
 <br />
 
