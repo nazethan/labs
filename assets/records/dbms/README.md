@@ -82,7 +82,7 @@
 > - **_** _Not PUBLISHED_ yet
 > - **$** _PUBLISHED_, but not _VERIFIED_ yet
 > - **+** _VERIFIED_, but not _INDEXED_ yet
-> - **<\number>** _VERIFIED_ and _INDEXED_
+> - **\<number>** _VERIFIED_ and _INDEXED_
 > 
 > _INDEXED_ means that particular experiment is ready to be written!
 
