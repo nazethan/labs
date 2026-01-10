@@ -7,7 +7,7 @@ This repository is a collections of **Practical Records**, **Experiments**, **Re
 
 <br />
 
-### Directory Locator
+### **Directory Locator**
 | Directory | Link |
 | :--- | :--: |
 | `Records` | [![records](https://img.shields.io/badge/Records-%23000000.svg?style=for-the-badge&logo=bookstack&logoColor=fff)](assets/records/README.md) |
@@ -18,11 +18,11 @@ This repository is a collections of **Practical Records**, **Experiments**, **Re
 <br />
 
 ---
+/
 
-This repo has a licence of [MIT](LICENSE).
-
----
-
+[![License: MIT](https://img.shields.io/badge/license-mit-%23000000.svg?style=for-the-badge)](LICENSE)
 [![built with love](https://img.shields.io/badge/built_with-♥️-%23000000.svg?style=for-the-badge&logoColor=fff)](#)
+
+<h5><b>© 2026 • All Rights Reserved • Nazethan Labs</b></h5>
 
 </div>

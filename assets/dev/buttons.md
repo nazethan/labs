@@ -22,8 +22,8 @@ This folder contains all button assets used in the project. Each button is desig
 | Usage | Simpleicons | Previews |
 | :---: | :---------: | :------: |
 | Home | `googlehome` | [![home](https://img.shields.io/badge/google_home-%23000000.svg?style=for-the-badge&logo=googlehome&logoColor=fff)](#) |
-| Next | `no icon` | [![next](https://img.shields.io/badge/next-%23000000.svg?style=for-the-badge&logoColor=fff)](#) |
-| Previous | `no icon` | [![prev](https://img.shields.io/badge/prev-%23000000.svg?style=for-the-badge&logoColor=fff)](#) |
+| Next | `no icon` | [![next >](https://img.shields.io/badge/no_icon_>-%23000000.svg?style=for-the-badge&logoColor=fff)](#) |
+| Previous | `no icon` | [![< prev](https://img.shields.io/badge/<_no_icon-%23000000.svg?style=for-the-badge&logoColor=fff)](#) |
 
 ---
 

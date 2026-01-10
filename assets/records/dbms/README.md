@@ -12,8 +12,8 @@
 ### **U1 • DBMS Lab: Installation & Basic Operations**
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :---:  | :------------------- | :-: | :-: | :--: |
-| `1` | To install MySQL | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `09/01/2026` | `12/01/2026` |
-| `2` | To create a basic database & perform simple operations | [![rec](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
+| `1` | Installation and exploration of MySQL | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `09/01/2026` | `12/01/2026` |
+| `$` | To create a basic database & perform simple operations | [![rec](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
 
 <br />
 
@@ -66,16 +66,17 @@
 ---
 
 > [!note]
-> **Serial Numbering** codex:  
-> **_ :** **not PUBLISHED**  
-> **$ :** **PUBLISHED**, **not VERIFIED**  
-> **+ :** **VERIFIED**, **not INDEXED**  
-> **number :** **VERIFIED**, **INDEXED**  
+> **Serial No.** codex:  
 > 
-> **INDEXED :** Ready to write
+> | Sl.No. | Rule                                  |
+> | :----: | :------------------------------------ |
+> | `_`    | **NOT PUBLISHED :** Yet to be written |
+> | `+`    | **PUBLISHED :** Ready for review      |
+> | `$`    | **VERIFIED :** Reviewed and approved  | 
+> | `~`    | **ADDITIONAL :** Extra experiments    |
 
 ---
 
 <div align="center">
-  <h5>© 2026 • All Rights Reserved.</h5>
+  <h5>© 2026 • All Rights Reserved • Nazethan Labs</h5>
 </div>
