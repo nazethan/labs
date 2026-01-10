@@ -17,8 +17,6 @@
   > | `+`    | **PUBLISHED :** Under review          |
   > | `$`    | **VERIFIED :** Reviewed and approved  |
   > | `~`    | **ADDITIONAL :** Extra experiments    |
-  > 
-  > All the lines starting with `--` are comments and should be ignored while executing/writing SQL queries.
 
 </details>
 
