@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><b>Database Management Lab • Records</b></h2>
+  <h2><b>Database Management Lab</b></h2>
   
   > ###### This directory consists of all the records of Database Management Systems Lab, categorized according to the **syllabus topics**. <br /> [![actual index](https://img.shields.io/badge/view_the_index-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](INDEX.md)
 
@@ -25,8 +25,8 @@
 ### **U1 • DBMS Lab: Installation & Basic Operations**
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :---:  | :------------------- | :-: | :-: | :--: |
-| `$` | Installation and exploration of MySQL | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `09/01/2026` | `12/01/2026` |
-| `+` | To create a basic database & perform simple operations | [![rec](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
+| `$` | To install and explore MySQL database management system | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
+| `+` | To create a basic database & perform simple operations | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
 
 <br />
 
