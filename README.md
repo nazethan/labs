@@ -1,6 +1,6 @@
 <div align=center>
   
-## Nazethan / Labs
+## **Nazethan / Labs**
 
 #### Welcome to the Labs!
 This repository is a collections of **Practical Records**, **Experiments**, **References** and **Assignments** of the 4th Semester.
