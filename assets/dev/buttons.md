@@ -3,6 +3,8 @@
 ## **Button Codex**
 This folder contains all button assets used in the project. Each button is designed to be visually appealing and user-friendly, ensuring a consistent look and feel across the application.
 
+</div>
+
 ---
 
 ### Subject buttons
@@ -34,4 +36,4 @@ This folder contains all button assets used in the project. Each button is desig
 | Assignments | `notion` | [![assignments](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=fff)](#) |
 | Guides | `weightsandbiases` | [![guides](https://img.shields.io/badge/weights_&_biases-%23000000.svg?style=for-the-badge&logo=weightsandbiases&logoColor=fff)](#) |
 
-</div>
+---
