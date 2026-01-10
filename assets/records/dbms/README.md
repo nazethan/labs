@@ -5,20 +5,34 @@
 
 </div>
 
+<details>
+  <summary><b>Important</b></summary>
 
+  > [!note]
+  > **Serial No.** codex:
+  > 
+  > | Sl.No. | Rule                                  |
+  > | :----: | :------------------------------------ |
+  > | `_`    | **NOT PUBLISHED :** Yet to be written |
+  > | `+`    | **PUBLISHED :** Under review          |
+  > | `$`    | **VERIFIED :** Reviewed and approved  | 
+  > | `~`    | **ADDITIONAL :** Extra experiments    |
+
+</details>
 
 <br />
 
 ### **U1 • DBMS Lab: Installation & Basic Operations**
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :---:  | :------------------- | :-: | :-: | :--: |
-| `1` | Installation and exploration of MySQL | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `09/01/2026` | `12/01/2026` |
-| `$` | To create a basic database & perform simple operations | [![rec](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
+| `$` | Installation and exploration of MySQL | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `09/01/2026` | `12/01/2026` |
+| `+` | To create a basic database & perform simple operations | [![rec](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
 
 <br />
 
 ---
 
+### **U2 • Database Design & ER Diagram**
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :---:  | :------------------- | :-: | :-: | :--: |
 | `_` | To design an ER diagram for a student management system | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
@@ -28,7 +42,7 @@
 
 ---
 
-### **U3 • Write SQL Queries**
+### **U3 • SQL Queries**
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :---:  | :------------------- | :-: | :-: | :--: |
 | `+` | To write SQL queries for table creation and modification | [![rec](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://dorukaysor.github.io/errors/404) | `__/__/____` | `__/__/____` |
@@ -62,18 +76,6 @@
 
 
 <br />
-
----
-
-> [!note]
-> **Serial No.** codex:  
-> 
-> | Sl.No. | Rule                                  |
-> | :----: | :------------------------------------ |
-> | `_`    | **NOT PUBLISHED :** Yet to be written |
-> | `+`    | **PUBLISHED :** Ready for review      |
-> | `$`    | **VERIFIED :** Reviewed and approved  | 
-> | `~`    | **ADDITIONAL :** Extra experiments    |
 
 ---
 
