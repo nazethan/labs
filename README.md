@@ -15,15 +15,14 @@ This repository is a collections of **Practical Records**, **Experiments**, **Re
 | `Assignments` | [![cs](https://img.shields.io/badge/coming_soon!-%23000000.svg?style=for-the-badge&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
 | `Guides` | [![cs](https://img.shields.io/badge/coming_soon!-%23000000.svg?style=for-the-badge&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
 
----
-
 <br />
+
+---
 
 This repo has a licence of [MIT](LICENSE).
 
-<br />
+---
 
-[![this is home](https://img.shields.io/badge/this_is_home-%23000000.svg?style=for-the-badge&logo=googlehome&logoColor=fff)](#)
-###### **Made with ❤️**
+[![built with love](https://img.shields.io/badge/built_with-♥️-%23000000.svg?style=for-the-badge&logoColor=fff)](#)
 
 </div>
