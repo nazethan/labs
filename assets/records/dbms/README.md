@@ -16,6 +16,7 @@
 
 <details>
 <summary><b>haulted</b></summary>
+
 ### **U2 • Database Design & ER Diagrams**
 | Sl.No. | Aim of the Experiment | URL | DOE | DOS |
 | :---:  | :-------------------: | :-: | :-: | :--: |
