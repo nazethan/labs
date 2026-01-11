@@ -8,9 +8,9 @@
 ### **Locate The Labs**
 | Lab Name | URL |
 | :--- | :--: |
-| Operating Systems Lab | [![cs](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=archlinux&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
+| Operating Systems Lab | [![cs](https://img.shields.io/badge/coming_soon-%23000000.svg?style=for-the-badge&logo=archlinux&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
 | Database Management Systems Lab | [![lab](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](dbms/README.md) |
-| Computer Networks Lab | [![cs](https://img.shields.io/badge/lab-%23000000.svg?style=for-the-badge&logo=freenet&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
+| Computer Networks Lab | [![cs](https://img.shields.io/badge/coming_soon-%23000000.svg?style=for-the-badge&logo=freenet&logoColor=fff)](https://dorukaysor.github.io/errors/coming_soon/) |
 
 <br />
 
